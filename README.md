@@ -7,8 +7,8 @@
 本專題提出 **TResNet34_CBAM** 架構，結合預訓練 ResNet34 與 CBAM 雙重注意力機制（Channel Attention + Spatial Attention），用於腦腫瘤 MRI 影像的四類分類任務。
 
 - **課程**：機器學習（Machine Learning）期末專題
-- **組別**：第 7 組（5人）
-- **學校**：國立中央大學 資訊電機學院學士班
+- **組別**：第 7 組
+- 國立中央大學 資訊電機學院學士班
 
 ---
 
